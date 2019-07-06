@@ -1,0 +1,45 @@
+URL: /
+Timestamp: Sat Jul 06 2019 08:58:09 GMT-0400 (DST)
+
+URL: /css/styles.css
+Timestamp: Sat Jul 06 2019 08:58:09 GMT-0400 (DST)
+
+URL: /favicon.ico
+Timestamp: Sat Jul 06 2019 08:58:09 GMT-0400 (DST)
+
+URL: /
+Timestamp: Sat Jul 06 2019 09:01:03 GMT-0400 (DST)
+
+URL: /css/styles.css
+Timestamp: Sat Jul 06 2019 09:01:03 GMT-0400 (DST)
+
+URL: /favicon.ico
+Timestamp: Sat Jul 06 2019 09:01:05 GMT-0400 (DST)
+
+URL: /?documentation
+Timestamp: Sat Jul 06 2019 09:01:23 GMT-0400 (DST)
+
+URL: /css/styles.css
+Timestamp: Sat Jul 06 2019 09:01:23 GMT-0400 (DST)
+
+URL: /favicon.ico
+Timestamp: Sat Jul 06 2019 09:01:23 GMT-0400 (DST)
+
+URL: /?documentation
+Timestamp: Sat Jul 06 2019 09:01:39 GMT-0400 (DST)
+
+URL: /css/styles.css
+Timestamp: Sat Jul 06 2019 09:01:39 GMT-0400 (DST)
+
+URL: /favicon.ico
+Timestamp: Sat Jul 06 2019 09:01:39 GMT-0400 (DST)
+
+URL: /?documentation
+Timestamp: Sat Jul 06 2019 09:02:18 GMT-0400 (DST)
+
+URL: /css/styles.css
+Timestamp: Sat Jul 06 2019 09:02:18 GMT-0400 (DST)
+
+URL: /favicon.ico
+Timestamp: Sat Jul 06 2019 09:02:18 GMT-0400 (DST)
+
